@@ -19,7 +19,7 @@
 - Room
 
 ##### Libraries:
-- [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) 
+- [Hilt Dagger](https://developer.android.com/training/dependency-injection/hilt-android) 
 - [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines)
 - [Retrofit](https://square.github.io/retrofit/)
 - [OkHttp](https://square.github.io/okhttp/)
