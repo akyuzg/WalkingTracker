@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guray - Challenge</string>
+    <string name="photo_item_desc">photo item</string>
+    <string name="location_service_active_message">location service started.</string>
+    <string name="location_service_stopped_message">Location service stopped.</string>
+    <string name="permission_granted_by_user">"Permission has been granted by user"</string>
+    <string name="permission_denied">"Permission denied"</string>
+    <string name="important_message">"Location permission is very crucial for core features. Please select Allow all the time."</string>
+    <string name="ok">OK</string>
+    <string name="warning">Permission Needed</string>
+</resources>
