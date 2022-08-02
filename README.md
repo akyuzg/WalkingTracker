@@ -1,5 +1,5 @@
 # WalkingTracker
- An Android app written in Kotlin that demonstrates a clean architecture with MVVM with background location service. 
+ An Android app written in Kotlin that demonstrates a clean architecture with MVVM.
 
 ### MVVM pattern with Clean architecture developed with Kotlin.
 - Tracks your walking with images for every 100 meter.
