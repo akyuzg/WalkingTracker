@@ -4,7 +4,7 @@
 ### MVVM pattern with Clean architecture developed with Kotlin.
 - Tracks your walking with images for every 100 meter.
 - Image service provided from Flickr based on location.
-- User can see in a list 
+- User can see photos in a list 
 - Even if the user send the application to the background, the photos contunie to be saved.
 - Room database was used to store photo data.
 
@@ -15,6 +15,7 @@
 - ViewModel 
 - View Binding
 - LiveData 
+- Flow
 - Room
 
 ##### Libraries:
